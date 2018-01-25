@@ -12,8 +12,8 @@
 * 网盘里面的课程  
 ## 学习资源
 ### 简书
-CS224d: Deep Learning for Natural Language Processing（Previous）
-CS224n: Natural Language Processing with Deep Learning（Now）
+CS224d: Deep Learning for Natural Language Processing（Previous）  
+CS224n: Natural Language Processing with Deep Learning（Now）   
 - Previous cs224n Reports [link]
 - Previous cs224d Reports [2015] [2016]  
 **相关课程**：
