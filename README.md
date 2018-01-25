@@ -15,7 +15,7 @@
 CS224d: Deep Learning for Natural Language Processing（Previous）
 CS224n: Natural Language Processing with Deep Learning（Now）
 - Previous cs224n Reports [link]
-- Previous cs224d Reports [2015] [2016]
+- Previous cs224d Reports [2015] [2016]  
 **相关课程**：
 - CS231n课程：面向视觉识别的卷积神经网络
 - CS229课程： Machine Learning Autumn 2016
