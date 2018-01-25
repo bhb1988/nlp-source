@@ -21,13 +21,13 @@
 - [CS229课程： Machine Learning Autumn 2016](http://www.jianshu.com/p/0a6ef31ff77a)    
 - [coursera机器学习课程 （Andrew Ng）](http://www.jianshu.com/p/c68d0df13e0b)    
 ### 网易云课堂
-cs231<http://study.163.com/course/introduction/1003223001.htm#/courseDetail>   
+cs231   
+<http://study.163.com/course/introduction/1003223001.htm#/courseDetail>   
 牛津deeplnp
 gan教程：
 - http://www.cnblogs.com/Charles-Wan/
 - http://www.leiphone.com/news/201702/EU12GVIe2pNGtgEk.html
 - http://www.leiphone.com/news/201701/yZvIqK8VbxoYejLl.html?viewType=weixin
-
 - http://www.leiphone.com/news/201702/eIGiQzuGeuAaH22e.html
 - http://www.leiphone.com/news/201702/eIGiQzuGeuAaH22e.html
 - http://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html
