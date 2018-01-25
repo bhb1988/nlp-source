@@ -12,10 +12,10 @@
 * 网盘里面的课程  
 ## 学习资源
 ### 简书
-CS224d: Deep Learning for Natural Language Processing（Previous）  
-CS224n: Natural Language Processing with Deep Learning（Now）   
-- Previous cs224n Reports [link]
-- Previous cs224d Reports [2015] [2016]  
+[CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
+[CS224n: Natural Language Processing with Deep Learning（Now）](http://web.stanford.edu/class/cs224n/)   
+- Previous cs224n Reports [link](http://nlp.stanford.edu/courses/cs224n/)
+- Previous cs224d Reports [2015](http://cs224d.stanford.edu/reports_2015.html) [2016](http://cs224d.stanford.edu/reports_2016.html)
 **相关课程**：
 - CS231n课程：面向视觉识别的卷积神经网络
 - CS229课程： Machine Learning Autumn 2016
