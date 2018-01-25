@@ -14,7 +14,8 @@
 * [2018斯坦福CS 20深度学习Tensorflow实战课程](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247487819&idx=1&sn=6b246751e387ad819f7dc2274f54580e&chksm=fc85f058cbf2794e97cfc09a9fb0d54406ff732b96be2a25f3159661a75830b609ef5dc2c928&mpshare=1&scene=1&srcid=0114E2qSgu9HZ65Yc1uLItm8#rd)     
 * [跟李沐一起动手学深度学习](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650365569&idx=3&sn=7dbe73e2cc9f2803bf0b4d454c8f5d9a&chksm=83906a5db4e7e34b03bea223fe36514f3a6f9656638231c1f55aa1c018b7af2f41199ddf8165&mpshare=1&scene=1&srcid=0115mAjfmA99LEjwr9GLAOJT#rd)    
 * [stanford phd的微信公众号](https://mp.weixin.qq.com/s?__biz=MzU0NDQ0NTA1Mg==&mid=2247483787&idx=1&sn=3afbbd545c3c3acbf564225a185da8dd&chksm=fb7d4698cc0acf8ecfe2fed766096d18eb3fc5ffabcdd9e5cceea2c98aec0183ff0060b1ce7e&mpshare=1&scene=1&srcid=01145TPLHVigLfaeHLzISF3j#rd)   
-* [机器学习业务实践之路](https://edu.aliyun.com/course/26)
+* [机器学习业务实践之路](https://edu.aliyun.com/course/26)  
+* [天善学院](https://edu.hellobi.com/course/250)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
