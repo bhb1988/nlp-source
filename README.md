@@ -23,7 +23,8 @@
 ### 网易云课堂
 cs231   
 <http://study.163.com/course/introduction/1003223001.htm#/courseDetail>   
-### [牛津deeplnp](https://github.com/oxford-cs-deepnlp-2017/lectures)      
+### 牛津deeplnp
+<https://github.com/oxford-cs-deepnlp-2017/lectures>       
 ### gan教程：
 - http://www.cnblogs.com/Charles-Wan/
 - http://www.leiphone.com/news/201702/EU12GVIe2pNGtgEk.html
@@ -32,7 +33,7 @@ cs231
 - http://www.leiphone.com/news/201702/eIGiQzuGeuAaH22e.html
 - http://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html
 - http://www.leiphone.com/news/201702/QlPJUIqgyw6brWr2.html     
-###nlp课程：
+### nlp课程：
 http://cs224d.stanford.edu/
 http://cs231n.stanford.edu/
 http://web.stanford.edu/class/cs20si/
