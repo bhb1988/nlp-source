@@ -16,16 +16,16 @@
 [CS224n: Natural Language Processing with Deep Learning（Now）](http://web.stanford.edu/class/cs224n/)   
 - Previous cs224n Reports [link](http://nlp.stanford.edu/courses/cs224n/)
 - Previous cs224d Reports [2015](http://cs224d.stanford.edu/reports_2015.html) [2016](http://cs224d.stanford.edu/reports_2016.html)   
-**相关课程**：
+**相关课程**
 - [CS231n课程：面向视觉识别的卷积神经网络](http://www.jianshu.com/p/182baeb82c71)    
 - [CS229课程： Machine Learning Autumn 2016](http://www.jianshu.com/p/0a6ef31ff77a)    
 - [coursera机器学习课程 （Andrew Ng）](http://www.jianshu.com/p/c68d0df13e0b)    
 ### 网易云课堂
 cs231   
 <http://study.163.com/course/introduction/1003223001.htm#/courseDetail>   
-### 牛津deeplnp
+### 牛津deepnlp
 <https://github.com/oxford-cs-deepnlp-2017/lectures>       
-### gan教程：
+### gan教程
 - http://www.cnblogs.com/Charles-Wan/
 - http://www.leiphone.com/news/201702/EU12GVIe2pNGtgEk.html
 - http://www.leiphone.com/news/201701/yZvIqK8VbxoYejLl.html?viewType=weixin
@@ -47,33 +47,29 @@ cs231
 
 ### 马萨诸塞大学自然语言处理课程    
 - http://people.cs.umass.edu/~brenocon/inlp2017/
-
-网盘资源:http://vdisk.weibo.com/s/uiPfBB3YSzs8?category_id=0&parents_ref=uiPfBB4ik4nB
-
-书籍
-1，西瓜书
-2，李宏毅视频
-
-
-自然语言处理快速入门
-https://www.zhihu.com/question/19895141?sort=created
-数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？国内到底是阿里还是百度大数据最好？
-https://www.zhihu.com/question/26391679
-
-自学过程，
-1.先各种课件，加那本自然语言的书，搞清楚自然语言大概都有哪些问题，主要是为了解决什么问题的。
-2.基于某个问题看博士论文，了解来龙去脉。然后follow业界进度。
-3.找各种资源，会议的，期刊的，博客http://52nlp.cn(不是打广告，我不是博主，不过博客真心不错)
-4.微博上关注各种这个领域的大牛，他们有时候会推荐很多有用的资料。
-当然，数学之美 我也读了，确实不错。
-
-与姚佳讨论学习：
-1、分词器、词性标注、句法树
-2、情感分析、文本分类
-3、机器学习：lr （逻辑回归(Logistic Regression)）  svm（支持向量机） nb（朴素贝叶斯） hmm（隐马尔科夫模型） crf等（主要关注模型在nlp上的应用）
-
-渠道：CSDN，博客园，知乎，quora
-
+### 网盘资源  
+- http://vdisk.weibo.com/s/uiPfBB3YSzs8?category_id=0&parents_ref=uiPfBB4ik4nB
+### 推荐书籍
+- 西瓜书
+- 李宏毅视频
+## 快速入门
+### 自然语言处理快速入门
+- https://www.zhihu.com/question/19895141?sort=created
+### 数据挖掘、机器学习、自然语言处理这三者是什么关系？这几个怎么入门啊？国内到底是阿里还是百度大数据最好？
+- https://www.zhihu.com/question/26391679
+## 自学过程
+1. 先各种课件，加那本自然语言的书，搞清楚自然语言大概都有哪些问题，主要是为了解决什么问题的。
+2. 基于某个问题看博士论文，了解来龙去脉。然后follow业界进度。
+3. 找各种资源，会议的，期刊的，博客http://52nlp.cn(不是打广告，我不是博主，不过博客真心不错)
+4. 微博上关注各种这个领域的大牛，他们有时候会推荐很多有用的资料。
+5. 当然，数学之美 我也读了，确实不错。
+## 与姚佳讨论学习：
+1.分词器、词性标注、句法树
+2. 情感分析、文本分类
+3. 机器学习：lr （逻辑回归(Logistic Regression)）  svm（支持向量机） nb（朴素贝叶斯） hmm（隐马尔科夫模型） crf等（主要关注模型在nlp上的应用）
+## 博客
+- CSDN，博客园，知乎，quora
+## 用到的数学基础
 
 矩阵计算，数据分析，最优化，数理统计，随机过程，代数，微积分。。。
 
