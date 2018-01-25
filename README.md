@@ -17,9 +17,9 @@
 - Previous cs224n Reports [link](http://nlp.stanford.edu/courses/cs224n/)
 - Previous cs224d Reports [2015](http://cs224d.stanford.edu/reports_2015.html) [2016](http://cs224d.stanford.edu/reports_2016.html)   
 **相关课程**：
-- CS231n课程：面向视觉识别的卷积神经网络
-- CS229课程： Machine Learning Autumn 2016
-- coursera机器学习课程 （Andrew Ng）
+- [CS231n课程：面向视觉识别的卷积神经网络](http://www.jianshu.com/p/182baeb82c71)    
+- [CS229课程： Machine Learning Autumn 2016](http://www.jianshu.com/p/0a6ef31ff77a)    
+- [coursera机器学习课程 （Andrew Ng）](http://www.jianshu.com/p/c68d0df13e0b)    
 ### 网易云课堂
 cs231http://study.163.com/course/introduction/1003223001.htm#/courseDetail
 牛津deeplnp
