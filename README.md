@@ -34,18 +34,19 @@ cs231
 - http://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html
 - http://www.leiphone.com/news/201702/QlPJUIqgyw6brWr2.html     
 ### nlp课程：
-http://cs224d.stanford.edu/
-http://cs231n.stanford.edu/
-http://web.stanford.edu/class/cs20si/
-http://ai.berkeley.edu/home.html
-https://github.com/oxford-cs-deepnlp-2017/lectures
-Oxford，youtube链接：https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
- https://www.coursera.org/learn/neural-networks
-https://www.coursera.org/learn/neural-networks?from=singlemessage&isappinstalled=0
-https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118310923
-https://github.com/rguthrie3/DeepLearningForNLPInPytorch
+- http://cs224d.stanford.edu/
+- http://cs231n.stanford.edu/
+- http://web.stanford.edu/class/cs20si/
+- http://ai.berkeley.edu/home.html
+- https://github.com/oxford-cs-deepnlp-2017/lectures
+- Oxford，youtube链接：  https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
+- https://www.coursera.org/learn/neural-networks
+- https://www.coursera.org/learn/neural-networks?from=singlemessage&isappinstalled=0
+- https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118310923
+- https://github.com/rguthrie3/DeepLearningForNLPInPytorch
 
-马萨诸塞大学自然语言处理课程http://people.cs.umass.edu/~brenocon/inlp2017/
+### 马萨诸塞大学自然语言处理课程    
+- http://people.cs.umass.edu/~brenocon/inlp2017/
 
 网盘资源:http://vdisk.weibo.com/s/uiPfBB3YSzs8?category_id=0&parents_ref=uiPfBB4ik4nB
 
