@@ -18,6 +18,7 @@
 * [机器学习业务实践之路](https://edu.aliyun.com/course/26)  
 * [天善学院](https://edu.hellobi.com/course/250)
 * [知乎](https://www.zhihu.com/people/bai-hong-25-44/following/columns)
+* [OPENKG](http://www.openkg.cn/tool/refo-kbqa)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
