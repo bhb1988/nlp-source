@@ -17,6 +17,7 @@
 * [stanford phd的微信公众号](https://mp.weixin.qq.com/s?__biz=MzU0NDQ0NTA1Mg==&mid=2247483787&idx=1&sn=3afbbd545c3c3acbf564225a185da8dd&chksm=fb7d4698cc0acf8ecfe2fed766096d18eb3fc5ffabcdd9e5cceea2c98aec0183ff0060b1ce7e&mpshare=1&scene=1&srcid=01145TPLHVigLfaeHLzISF3j#rd)   
 * [机器学习业务实践之路](https://edu.aliyun.com/course/26)  
 * [天善学院](https://edu.hellobi.com/course/250)
+* [知乎](https://www.zhihu.com/people/bai-hong-25-44/following/columns)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
