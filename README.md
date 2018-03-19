@@ -19,6 +19,7 @@
 * [天善学院](https://edu.hellobi.com/course/250)
 * [知乎](https://www.zhihu.com/people/bai-hong-25-44/following/columns)
 * [OPENKG](http://www.openkg.cn/tool/refo-kbqa)
+* [博客](https://www.cnblogs.com/pinard/p/5970503.html)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
@@ -93,3 +94,14 @@ cs231
 回到楼主的问题来，数学仅仅是工具，还是要由问题来引导方法。我也只能回答“粗略了解或简单实现自然语言处理涉及哪些数学知识”这个问题并在前文给出了我的答案，可是由于自然语言处理的子问题跨度不小，我觉得单列出常用的数学知识是没有太大意义的。
 
 最后推荐一个自然语言处理的博客http://www.52nlp.org/，里面有很多入门或深度的讨论。
+## 其它分享
+我平时看过的的一些论文和资料放在OneDrive云上，实时更新，有需要的可以下载，但是OneDrive分享页面在一些网络环境下可能需要科学上网才能打开。
+ - Papers OneDrive(实时更新): https://1drv.ms/f/s!AoG0JX7M-v1hi2YuhRj9F484Y8rF （主要包含深度学习各大领域的经典和主流论文）
+ - Lessons/Blogs/Books OneDrive: https://1drv.ms/f/s!AoG0JX7M-v1hi1n3wCHdDvfQ1_m0 （包含我觉得不错的课程视频、博客和书籍的电子版）
+
+> 我为上一个优等生互助班整理的资料（包括一些直播课录播）放在网盘上了，已停止更新：
+ - 资料网盘：https://pan.baidu.com/s/1skU0xEt 
+ - 密码：nxnc
+
+> 我的邮箱：466532329@qq.com
+> 我的GitHub：https://github.com/LeanderLXZ
