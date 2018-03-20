@@ -108,10 +108,29 @@ cs231
 ***
 https://www.cnblogs.com/pinard/p/5970503.html
 ***
-【干货】
-通用常见基本问题http://t.cn/RCvTDzp     
-P1神经网络常见问题：http://t.cn/RQofmtO   
-P2图像分类常见问题：http://t.cn/RQofdqi   
-P3生成电视剧剧本常见问题：http://t.cn/RQofFFE   
-P4语言翻译常见问题：http://t.cn/RQoIwbl   
-P5生成人脸常见问题：http://t.cn/RQoIU6V   
+学习小tips：  
+遇到问题多提问  
+论坛答案找起来  
+做完项目就提交  
+约个导师来帮你：https://calendly.com/nd101  
+
+* 已经完成5个项目但未看到证书的小伙伴请联系Sherry处理  
+  
+————————  
+【学习干货】   
+Reviewer项目指导：https://leolei.com/ （建议PC端查看）  
+
+直播回顾系列：  
+项目一(神经网络)直播回顾：https://m.qlchat.com/topic/2000000163780713.htm?preview=Y&intoPreview=Y  
+项目二(图像分类)直播回顾：https://m.qlchat.com/topic/2000000431711321.htm?preview=Y&intoPreview=Y  
+项目三(生成电视剧剧本)直播回顾：https://m.qlchat.com/topic/2000000540007243.htm?preview=Y&intoPreview=Y  
+项目四(语言翻译)直播回顾：https://m.qlchat.com/topic/2000000625137260.htm?preview=Y&intoPreview=Y  
+项目五(生成人脸)直播回顾：https://m.qlchat.com/wechat/page/topic-intro?topicId=2000000671252948&preview=Y&intoPreview=Y  
+
+论坛文字指导：  
+通用常见基本问题http://t.cn/RCvTDzp  
+P1神经网络常见问题：http://t.cn/RQofmtO  
+P2图像分类常见问题：http://t.cn/RQofdqi  
+P3生成电视剧剧本常见问题：http://t.cn/RQofFFE  
+P4语言翻译常见问题：http://t.cn/RQoIwbl  
+P5生成人脸常见问题：http://t.cn/RQoIU6V  
