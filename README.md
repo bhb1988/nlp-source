@@ -105,5 +105,13 @@ cs231
 
 > 我的邮箱：466532329@qq.com
 > 我的GitHub：https://github.com/LeanderLXZ
-
+***
 https://www.cnblogs.com/pinard/p/5970503.html
+***
+【干货】
+通用常见基本问题http://t.cn/RCvTDzp
+P1神经网络常见问题：http://t.cn/RQofmtO
+P2图像分类常见问题：http://t.cn/RQofdqi
+P3生成电视剧剧本常见问题：http://t.cn/RQofFFE
+P4语言翻译常见问题：http://t.cn/RQoIwbl
+P5生成人脸常见问题：http://t.cn/RQoIU6V
