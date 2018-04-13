@@ -20,6 +20,7 @@
 * [知乎](https://www.zhihu.com/people/bai-hong-25-44/following/columns)
 * [OPENKG](http://www.openkg.cn/tool/refo-kbqa)
 * [博客](https://www.cnblogs.com/pinard/p/5970503.html)
+* [TinyMind](http://www.tinymind.cn/articles)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
