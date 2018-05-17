@@ -68,7 +68,7 @@ cs231
 - python machine learning
 [中文]https://ljalphabeta.gitbooks.io/python-/content/
      http://www.aibbt.com/a/20787.html
-[英文]https://github.com/rasbt/python-machine-learning-book（ed1）
+[英文]https://github.com/rasbt/python-machine-learning-book（ed1）        
      https://github.com/rasbt/python-machine-learning-book-2nd-edition（ed2）
 ## 快速入门
 ### 自然语言处理快速入门
