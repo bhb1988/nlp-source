@@ -65,11 +65,11 @@ cs231
 ### 推荐书籍
 - 西瓜书
 - 李宏毅视频
-- python machine learning
-[中文]https://ljalphabeta.gitbooks.io/python-/content/
+- python machine learning    
+[中文]https://ljalphabeta.gitbooks.io/python-/content/    
      http://www.aibbt.com/a/20787.html
-[英文]https://github.com/rasbt/python-machine-learning-book（ed1）        
-     https://github.com/rasbt/python-machine-learning-book-2nd-edition（ed2）
+[英文]https://github.com/rasbt/python-machine-learning-book（ed1）           
+     https://github.com/rasbt/python-machine-learning-book-2nd-edition（ed2）     
 ## 快速入门
 ### 自然语言处理快速入门
 - https://www.zhihu.com/question/19895141?sort=created
