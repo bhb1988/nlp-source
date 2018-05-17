@@ -67,9 +67,9 @@ cs231
 - 李宏毅视频
 - python machine learning    
 [中文]https://ljalphabeta.gitbooks.io/python-/content/    
-&nbsp;http://www.aibbt.com/a/20787.html       
+&nbsp;&nbsp;&nbsp;http://www.aibbt.com/a/20787.html       
 [英文]https://github.com/rasbt/python-machine-learning-book（ed1）           
-&nbsp;https://github.com/rasbt/python-machine-learning-book-2nd-edition（ed2）     
+&nbsp;&nbsp;&nbsp;https://github.com/rasbt/python-machine-learning-book-2nd-edition（ed2）     
 ## 快速入门
 ### 自然语言处理快速入门
 - https://www.zhihu.com/question/19895141?sort=created
