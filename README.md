@@ -65,6 +65,7 @@ cs231
 ### 推荐书籍
 - 西瓜书
 - 李宏毅视频
+- python machine learning
 ## 快速入门
 ### 自然语言处理快速入门
 - https://www.zhihu.com/question/19895141?sort=created
