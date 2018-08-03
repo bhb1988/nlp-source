@@ -23,6 +23,7 @@
 * [TinyMind](http://www.tinymind.cn/articles)
 * 斯坦福微信群
 * 微信万门学习资料
+* a-Lin(微信朋友)
 ## 学习资源
 ### 简书
 [CS224d: Deep Learning for Natural Language Processing（Previous）](http://cs224d.stanford.edu/)  
