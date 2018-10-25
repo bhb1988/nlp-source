@@ -1,6 +1,7 @@
 1.官方ppt等（桌面，百度网盘）    
 2.笔记：   
 官方笔记翻译：https://www.tinymind.cn/collections/19  
+官方笔记翻译：https://blog.csdn.net/qq_33415086/article/details/80216955
 https://www.jiqizhixin.com/articles/2018-08-16-13  
 https://zhuanlan.zhihu.com/c_112943630  
 3.作业：  
