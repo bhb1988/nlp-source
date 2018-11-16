@@ -7,3 +7,4 @@ The Annotated Transformer    http://nlp.seas.harvard.edu/2018/04/03/attention.ht
 https://juejin.im/post/5b9f1af0e51d450e425eb32d
 https://zhuanlan.zhihu.com/p/39034683
 http://www.sohu.com/a/270074934_610300
+https://www.jianshu.com/p/ef41302edeef?utm_source=oschina-app
